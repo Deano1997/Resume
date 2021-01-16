@@ -29,6 +29,7 @@ HoGent
 Bachelor Toegepaste Informatica
 2016 - heden
 ```
+```
 
 ## WERKERVARING
 
