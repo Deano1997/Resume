@@ -9,7 +9,7 @@ deanovd@hotmail.com
 +32 489 10 01 88
 
 ```
-facebook.com/deanovd
+https://www.linkedin.com/in/dean-van-damme-bb32a61b8/
 ```
 # OPLEIDING
 
@@ -35,8 +35,7 @@ Bachelor Toegepaste Informatica
 Allgro
 Magazijnmedewerker
 2012 - 2013
-```
-```
+
 Ik was verantwoordelijk voor de invoer van de
 lopende band.
 ```
@@ -58,9 +57,45 @@ Ik maakte gebruik van een heftruck en stelde de
 orders samen voor klanten van Volvo Trucks.
 ```
 ```
-
+Vlaamse Overheid
+Software developer
+2020-2020
+```
+```
+VBK Logaut
+Software developer
+2020-heden
+```
+```
 
 # SKILLS
+
+```
+C# : Gevorderd
+```
+```
+Vue : Gevorderd
+```
+```
+Html : Gevorderd
+```
+```
+Sql : Gevorderd
+```
+```
+MySql : Gevorderd
+```
+```
+Css : Gevorderd
+```
+```
+Angular : Gevorderd
+```
+```
+GIT : Gemiddeld
+```
+```
+Xaml : Gemiddeld
 
 # TALEN
 
